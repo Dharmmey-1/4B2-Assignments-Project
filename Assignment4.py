@@ -1,0 +1,1 @@
+print("Hi Dami, I haven't learnt functions so I can't do the assignment now")
